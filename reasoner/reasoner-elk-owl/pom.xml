@@ -5,10 +5,12 @@
 	<parent>
 		<groupId>dev.ikm.tinkar</groupId>
 		<artifactId>reasoner</artifactId>
-		<version>1.110.0-SNAPSHOT</version>
+		<version>1.112.0-SNAPSHOT</version>
 	</parent>
 
 	<artifactId>reasoner-elk-owl</artifactId>
+
+	<name>Reasoner Elk Owl</name>
 
 	<dependencies>
 		<dependency>
